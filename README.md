@@ -1,20 +1,22 @@
 🌐 Webbizcraftshop : AWS 기반 SiteBuilder 서비스
 ---
-### 📍백엔드 팀원 소개
+### 📍 백엔드 팀원 소개
 |                               [김시우](https://github.com/IpekoGosu)                                |                                            [김민우](https://github.com/minwoo1999)                                            |                               [박지호](https://github.com/pjho4746)                                |                               [이종수](https://github.com/leejongsuu)                                |
 |:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 |                                       samuelk2873@gmail.com                                        |                                     hmg5959@gmail.com                                      |                                       pjho4746@gmail.com                                        |                                                    tjsdk34549@gmail.com                                                |
 | <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/d628f11a-c30f-408d-9c30-35dc259e6075" width="150" height="150"> | <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/cfd64afa-d8f8-4d6d-9e3b-e2bf7f5d7ee4" width="150" height="150"> | <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/1aa8f1cc-cda9-4fa4-b460-1ec802567917" width="150" height="150"> | <img src="https://github.com/CloudService-mobile-app/backend/assets/126854628/eb420fb9-c7c1-4b1c-8762-c86110f53508" width="150" height="150"> |
 
-### 📍개요
+### 📍 개요
+다양한 콘텐츠로 홍보하고 싶은 기업들을 위한 고객 맞춤형 홈페이지 자동 생성 및 운영 서비스입니다. 
+
 클라우드 기반의 혁신적인 플랫폼으로, AWS를 활용하여 손쉽게 고유한 웹사이트를 구축할 수 있습니다.
 
-URL을 직접 지정하고 이미지를 업로드하여 자신만의 웹사이트를 만들 수 있으며, 방문자 수, 방문 횟수, 스토리지 용량, 트래픽과 같은 주요 지표를 실시간으로 모니터링하여 비즈니스 성과를 추적할 수 있습니다.
+사용자는 URL을 직접 지정하고 이미지를 업로드하여 자신만의 웹사이트를 생성할 수 있습니다. 또한, 방문자 수, 방문 횟수, 스토리지 용량, 트래픽 등 주요 지표를 실시간으로 모니터링하여 비즈니스 성과를 신속하게 추적할 수 있습니다.
 
 ***※ 보안상의 이유로 코드는 공개되지 않습니다.***
 
 ---
-### 📍주요 기능
+### 📍 주요 기능
 | 기능 | 설명                                                                              |
 |---|---------------------------------------------------------------------------------|
 | 고유한 웹사이트 구축 | 사용자들은 총 3개의 웹사이트를 생성할 수 있으며, 각 웹사이트는 직접 지정한 고유한 URL과 업로드한 이미지를 통해 자신만의 웹사이트를 만들 수 있습니다. |
@@ -38,7 +40,18 @@ URL을 직접 지정하고 이미지를 업로드하여 자신만의 웹사이�
 *https://main.webbizcraft.shop* <br>
 
 **시연 영상** <br>
-[1차 출시](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing)
+[1차 출시](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing) <br>
+
+---
+### 📍 간단 소개
+[기업홈페이지 생성] <br>
+![기업홈페이지 생성](https://github.com/CloudService-mobile-app/backend/assets/126854628/07bdafb5-14bd-40e6-8979-d67991b88342)
+
+[개별 사용자의 관리 페이지] <br>
+![클라우드 서비스 신청서_모바일앱개발협동조합(수정본v2)_15](https://github.com/CloudService-mobile-app/backend/assets/126854628/e128f044-ba2a-41f1-9f45-0dee5e03fca9)
+
+[전체 서비스의 관리자 페이지] <br>
+![클라우드 서비스 신청서_모바일앱개발협동조합(수정본v2)_16](https://github.com/CloudService-mobile-app/backend/assets/126854628/62ef9131-9d0a-4fc3-8dc5-42fdf43e6235)
 
 ---
 
