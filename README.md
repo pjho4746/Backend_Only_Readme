@@ -59,7 +59,8 @@
 ---
 
 ### 📍 아키텍쳐 
-![모바일앱협동조합 (5)](https://github.com/CloudService-mobile-app/backend/assets/126854628/a0cc2eb7-a7db-46e6-a567-e340f1ea873b)
+![모바일앱협동조합](https://github.com/user-attachments/assets/0077ae4d-b5bb-46ea-8de1-5f11b1970f41)
+
 
 ---
 
