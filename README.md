@@ -35,28 +35,18 @@
 *2024.05.03* <br>
 
 **1차 출시** <br>
-*2024.06.14* <br>
+[*2024.06.14*](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing) <br>
 
 ---
-### 📍 결과물
+### 📍 최종 결과물
 **배포 사이트** <br>
 *https://main.webbizcraft.shop* <br>
 
-**시연 영상** <br>
-[1차 출시](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing) <br>
-
 ---
 ### 📍 간단 소개
-[기업홈페이지 생성] <br>
 ![KakaoTalk_20240719_163637296](https://github.com/user-attachments/assets/a560eb6d-cf25-41c7-b7c9-f2a68e3f0077)
-
-[개별 사용자의 관리 페이지] <br>
 ![KakaoTalk_20240719_163637296_02](https://github.com/user-attachments/assets/76072f34-c2c7-490c-8561-4922895039ed)
-
-
-[전체 서비스의 관리자 페이지] <br>
 ![KakaoTalk_20240719_163637296_01](https://github.com/user-attachments/assets/0f77a459-8235-47fd-b9b6-3dfe0fb36213)
-
 
 ---
 
