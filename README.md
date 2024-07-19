@@ -48,13 +48,15 @@
 ---
 ### 📍 간단 소개
 [기업홈페이지 생성] <br>
-![기업홈페이지 생성](https://github.com/CloudService-mobile-app/backend/assets/126854628/07bdafb5-14bd-40e6-8979-d67991b88342)
+![KakaoTalk_20240719_163637296](https://github.com/user-attachments/assets/a560eb6d-cf25-41c7-b7c9-f2a68e3f0077)
 
 [개별 사용자의 관리 페이지] <br>
-![클라우드 서비스 신청서_모바일앱개발협동조합(수정본v2)_15](https://github.com/CloudService-mobile-app/backend/assets/126854628/e128f044-ba2a-41f1-9f45-0dee5e03fca9)
+![KakaoTalk_20240719_163637296_02](https://github.com/user-attachments/assets/76072f34-c2c7-490c-8561-4922895039ed)
+
 
 [전체 서비스의 관리자 페이지] <br>
-![클라우드 서비스 신청서_모바일앱개발협동조합(수정본v2)_16](https://github.com/CloudService-mobile-app/backend/assets/126854628/62ef9131-9d0a-4fc3-8dc5-42fdf43e6235)
+![KakaoTalk_20240719_163637296_01](https://github.com/user-attachments/assets/0f77a459-8235-47fd-b9b6-3dfe0fb36213)
+
 
 ---
 
