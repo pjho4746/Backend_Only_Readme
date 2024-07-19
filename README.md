@@ -1,10 +1,12 @@
 🌐 Webbizcraftshop : AWS 기반 SiteBuilder 서비스
 ---
 ### 📍 백엔드 팀원 소개
-|                               [김시우](https://github.com/IpekoGosu)                                |                                            [김민우](https://github.com/minwoo1999)                                            |                               [박지호](https://github.com/pjho4746)                                |                               [이종수](https://github.com/leejongsuu)                                |
-|:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
-|                                       samuelk2873@gmail.com                                        |                                     hmg5959@gmail.com                                      |                                       pjho4746@gmail.com                                        |                                                    tjsdk34549@gmail.com                                                |
-| ![image](https://github.com/user-attachments/assets/06cc579c-0f45-40ca-b226-8c4f29855fed) | ![image](https://github.com/user-attachments/assets/9cd8473f-2ff8-4b7a-a405-8d80a4804465) | ![image](https://github.com/user-attachments/assets/108b21e5-e7b3-40aa-8423-1536cf535a15) | ![image](https://github.com/user-attachments/assets/97ae093a-6cb0-4d51-8940-b06fd7560f4f) |
+
+| [김시우](https://github.com/IpekoGosu) | [김민우](https://github.com/minwoo1999) | [박지호](https://github.com/pjho4746) | [이종수](https://github.com/leejongsuu) |
+|:---:|:---:|:---:|:---:|
+| samuelk2873@gmail.com | hmg5959@gmail.com | pjho4746@gmail.com | tjsdk34549@gmail.com |
+| <img src="https://github.com/user-attachments/assets/06cc579c-0f45-40ca-b226-8c4f29855fed" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/9cd8473f-2ff8-4b7a-a405-8d80a4804465" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/108b21e5-e7b3-40aa-8423-1536cf535a15" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/97ae093a-6cb0-4d51-8940-b06fd7560f4f" width="150" height="150"> |
+
 
 ### 📍 개요
 다양한 콘텐츠로 홍보하고 싶은 기업들을 위한 고객 맞춤형 홈페이지 자동 생성 및 운영 서비스입니다. 
