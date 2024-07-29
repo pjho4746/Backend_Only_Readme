@@ -37,6 +37,8 @@
 **1차 출시** <br>
 [*2024.06.14*](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing) <br>
 
+**서비스 종료일** <br>
+*2024.07.22* <br>
 ---
 ### 📍 최종 결과물
 **배포 사이트** <br>
