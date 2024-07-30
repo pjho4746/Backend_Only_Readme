@@ -35,7 +35,7 @@
 *2024.05.03* <br>
 
 **1차 출시** <br>
-[*2024.06.14*](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing) <br>
+[*2024.06.14*]([https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing](https://drive.google.com/file/d/1kAZUhnctZtkpSlNX749NYeiDd3tgy88G/view?usp=sharing)) <br>
 
 **서비스 종료일** <br>
 *2024.07.22* <br>
